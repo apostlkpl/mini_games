@@ -11,7 +11,7 @@
   ./run_linux.sh
   ```
 
-> <ins>_How to install Node.js:_</ins>
+#### <ins>_How to install Node.js:_</ins>
 - For Windows, visit [Node.js](https://nodejs.org/en/download) and get the latest .msi installer.
 - For Ubuntu:
   ```
