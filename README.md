@@ -3,7 +3,7 @@
 
 ### **Simple CLI games for learning and fun.**
 
-#### <ins>_For the Node.js games:_</>
+#### <ins>_For the Node.js games:_</ins>
 - To run on Windows, double click onins the _run_windows.bat_ file to start the game.
 - To run on Linux, do:
   ```
